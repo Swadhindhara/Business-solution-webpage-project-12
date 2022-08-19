@@ -2,7 +2,7 @@
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link]()
+> ### **Live deployed website link** --> [Netlify link](https://radiant-cendol-7f5280.netlify.app/)
 
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,7 +12,7 @@
 </span>
 
 ## How website looks like
-<img src =""/>
+<img src ="https://github.com/Swadhindhara/Business-solution-webpage-project-12/blob/main/final%20output.jpg"/>
 
 ## What I have learned in this project?
 - I learned about layout making through Flexbox & Grid.
@@ -22,7 +22,7 @@
 - I also added a good footer.
 
 
-## This project took around 2.5 hours to complete .
+## This project took around 8 hours to complete .
 
 ## Connect Me
 
